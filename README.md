@@ -48,3 +48,17 @@ Proof-of-concept проекта по миграции данных из реля
 ---
 
 **Автор:** Ramil Mustaev | Проект создан в учебных целях для личного портфолио.
+
+## Скриншоты работы проекта
+
+Отчёт скрипта валидации (validate.py):
+
+![Отчёт валидации](screenshots/validation-report.png)
+
+Очищенные данные в PostgreSQL (pgAdmin):
+
+![Таблица products в pgAdmin](screenshots/pgadmin-products.png)
+
+Аналитика: динамика накладных по месяцам (MoM):
+
+![Аналитика сезонности](screenshots/analytics-seasonality.png)
